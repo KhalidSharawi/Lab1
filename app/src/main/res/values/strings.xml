@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string name="app_label">Unit Converter</string>
+    <string name="fuelcons">Fuel Consumption</string>
+    <string name="kmliter">Km/Liter</string>
+    <string name="hint1">Enter KM to convert</string>
+    <string name="mpgus">MPG (US)</string>
+    <string name="hint2">Result will show here</string>
+    <string name="button_label">Convert</string>
+    <string name="action_settings">Settings</string>
+</resources>
+
+
